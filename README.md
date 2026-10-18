@@ -12,7 +12,10 @@
 7. Вывод res
 8. Конец
 ## Блок схема
+
 <img width="234" height="762" alt="Lab8 drawio" src="https://github.com/user-attachments/assets/2090c168-8ca0-46ca-99f0-3c840773f63a" />
+
+
 ## 2. Реализация Программы.
 ## 3. Результаты работы программы.
 Введите значение N:
